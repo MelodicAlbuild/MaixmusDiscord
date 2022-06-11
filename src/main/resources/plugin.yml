@@ -1,0 +1,7 @@
+name: MaximusDiscord
+version: '${project.version}'
+main: net.melodicalbuild.maximusdiscord.MaximusDiscord
+api-version: 1.18
+depend: [ DiscordSRV, MaximusCore ]
+authors: [ MelodicAlbuild ]
+description: The Maximus SMP to Discord Interface using Discord SRV
